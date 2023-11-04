@@ -1,6 +1,6 @@
 # Name Tag Generator
 
-This project involved building an interactive name tag generator in React.js that allows for creating and deleting bulk name tags for a group of people. 
+這個專案涉及在React.js中建立一個互動式的名牌生成器，允許創建和刪除一組人的批量名牌。
 
 ## Objective
 * Build a data model.
