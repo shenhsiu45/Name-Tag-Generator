@@ -13,5 +13,5 @@ https://user-images.githubusercontent.com/60168324/183219596-29cf7d07-5a8b-4e88-
 
 ## Launch
 
-Display : [https://marisabrantley.github.io/name-tag-generator/](https://shenhsiu45.github.io/Name-Tag-Generator/)
+Display : [https://shenhsiu45.github.io/Name-Tag-Generator/]
 
