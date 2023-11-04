@@ -1,4 +1,4 @@
-# Name Tag Generator
+# 姓名標籤生產器 Name Tag Generator
 
 這個專案涉及在React.js中建立一個互動式的名牌生成器，允許創建和刪除一組人的批量名牌。
 
