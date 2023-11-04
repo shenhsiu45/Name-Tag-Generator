@@ -13,9 +13,5 @@ https://user-images.githubusercontent.com/60168324/183219596-29cf7d07-5a8b-4e88-
 
 ## Launch
 
-View and use the Name Tag Generator here: https://marisabrantley.github.io/name-tag-generator/
+Display : [https://marisabrantley.github.io/name-tag-generator/](https://shenhsiu45.github.io/Name-Tag-Generator/)
 
-## Class
-*Skillcrush, Break into Tech Blueprint*
-
-Introduction to JavaScript React
