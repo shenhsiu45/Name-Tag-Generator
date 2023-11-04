@@ -14,7 +14,7 @@ input[type=text] {
 }
 
 .name-tag {
-    background-color: red;
+    background-color: rgb(221, 157, 54);
     border-radius: 20px;
     display: inline-block;
     margin: 20px 10px;
