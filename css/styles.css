@@ -1,9 +1,9 @@
-.App {
+.App{
     font-family: sans-serif;
     text-align: center;
   }
   
-  input {
+  input{
     padding: 5px;
     font-size: 16px;
     border-radius: 3px;
@@ -12,7 +12,7 @@
     width: 200px;
   }
   
-  .name-tag {
+  .name-tag{
     background-color: rgb(57, 167, 255)    ;
     padding: 10px 0 20px;
     border-radius: 20px;
@@ -26,7 +26,7 @@
     margin: 0;
     font-size: 40px;
   }
-  .subtitle {
+  .subtitle{
     color: white;
     margin: 0;
   }
