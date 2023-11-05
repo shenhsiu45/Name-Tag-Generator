@@ -14,7 +14,7 @@ input[type=text] {
 }
 
 .name-tag {
-    background-color: rgb(221, 157, 54);
+    background-color: rgb(57, 167, 255);
     border-radius: 20px;
     display: inline-block;
     margin: 20px 10px;
@@ -28,12 +28,12 @@ input[type=text] {
 }
 
 .subtitle,.title {
-    color: #fff;
+    color: rgb(224, 244, 255);
     margin: 0
 }
 
 .name {
-    background-color: #fff;
+    background-color: rgb(255, 238, 217);
     font-family: Permanent Marker,Arial,Helvetica,sans-serif;
     font-size: 60px;
     height: 90px;
